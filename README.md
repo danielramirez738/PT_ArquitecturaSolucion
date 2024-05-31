@@ -1,5 +1,5 @@
 - Prueba técnica Dirección Arquitectura
 - Compañia: Corbeta Casa central
 - Rol: Arquitecto de soluciones
-- Fecha: 30 Mayo 2024
+- Fecha: 31 Mayo 2024
 - Presenta: Daniel Ramírez Bedoya
